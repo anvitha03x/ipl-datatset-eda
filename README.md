@@ -27,5 +27,3 @@ This project focuses on **Basic Data Cleaning and Exploratory Data Analysis (EDA
 
 ## **Conclusion**  
 This project helped in understanding how data preprocessing and EDA play a crucial role in extracting valuable insights for decision-making.  
-
-🔹 Feel free to explore the dataset and contribute!  
